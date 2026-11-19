@@ -1,5 +1,7 @@
 # Связка двух ПК через Streamer.bot 1.0.7 по локальной сети (WebSocket)
 
+Официальный сайт: [streamer.bot](https://streamer.bot/) · Документация: [docs.streamer.bot](https://docs.streamer.bot/)
+
 Схема управления стрим-ПК с игрового ПК напрямую по LAN **без облачного аккаунта Streamer.bot** и без запуска внешних процессов (PowerShell/curl) на каждое нажатие:
 
 ```text
